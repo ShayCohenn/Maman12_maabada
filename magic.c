@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <ctype.h>
 
-#define N 4
+#define N 5
 #define SIZE (N * N)
 
 int read_input(int matrix[N][N]);
